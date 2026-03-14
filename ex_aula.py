@@ -2,6 +2,7 @@ class Node:
     def __init__(self, data=None):
         self.data = data
         self.next = None
+        
 class LinkList:
 
     def __init__(self):
