@@ -37,3 +37,14 @@ Inicial
 5		
 Final		
 Ao final, responda: esse laço faz prev apontar para o último nó ou para o penúltimo?"""
+
+#Repostas:
+
+# Iteração	pointer.data	prev.data
+# Inicial	8	None
+# 1	4	8
+# 2	7	4
+# 3	2	7
+# 4	5	2
+# 5	None	5
+# Final	None	5   
